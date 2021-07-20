@@ -1,4 +1,4 @@
-@import url(http://weloveiconfonts.com/api/?family=entypo|fontawesome);
+﻿@import url(http://weloveiconfonts.com/api/?family=entypo|fontawesome);
 /* entypo */
 [class*="entypo-"]:before {
   font-family: "entypo", sans-serif;
@@ -94,7 +94,7 @@ a.active {
 /* Main tags */
 
 body {
-  background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/dark_wall.png)
+  background: url(https://wallpapercave.com/wp/wp2888523.jpg)
     repeat;
   margin: 0;
 }
